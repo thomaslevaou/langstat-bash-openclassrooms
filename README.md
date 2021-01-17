@@ -16,7 +16,7 @@ décroissant du nombre de mots, comme sur le résultat ci-dessous (exécution pa
 ...
 ```
 
-2. Idem, mais par ordre croissant (via le paramètre --tricroissant):
+2. Idem, mais par ordre croissant (via le paramètre `--tricroissant`):
 ```
 529 - W
 1595 - K
