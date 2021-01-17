@@ -25,7 +25,7 @@ décroissant du nombre de mots, comme sur le résultat ci-dessous (exécution pa
 ...
 ```
 
-2. Idem, mais dans l'ordre alphabétique de chaque lettre (via le paramètre --triparlettres):
+2. Idem, mais dans l'ordre alphabétique de chaque lettre (via le paramètre `--triparlettres`):
 ```
 A - 229938
 B - 43471
@@ -35,12 +35,12 @@ E - 278814
 ...
 ```
 
-3. Le nombre moyen de mots du fichier dans lequel apparaît chaque lettre (via le paramètre --moyenne):
+3. Le nombre moyen de mots du fichier dans lequel apparaît chaque lettre (via le paramètre `--moyenne`):
 ```
 Chaque lettre apparaît en moyenne dans 94737 mots du fichier.
 ```
 
-4. Le pourcentage des mots du dictionnaire dans lequel chaque lettre apparaît (via le paramètre --pourcentage):
+4. Le pourcentage des mots du dictionnaire dans lequel chaque lettre apparaît (via le paramètre `--pourcentage`):
 ```
 86% - E
 71% - A
