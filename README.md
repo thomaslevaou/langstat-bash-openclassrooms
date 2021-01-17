@@ -17,38 +17,38 @@ décroissant du nombre de mots, comme sur le résultat ci-dessous (exécution pa
 ```
 
 2. Idem, mais par ordre croissant (via le paramètre --tricroissant):
-``̀
+```
 529 - W
 1595 - K
 5743 - J
 8262 - X
 ...
-``̀
+```
 
 2. Idem, mais dans l'ordre alphabétique de chaque lettre (via le paramètre --triparlettres):
-``̀
+```
 A - 229938
 B - 43471
 C - 98832
 D - 72481
 E - 278814
 ...
-``̀
+```
 
 3. Le nombre moyen de mots du fichier dans lequel apparaît chaque lettre (via le paramètre --moyenne):
-``̀
+```
 Chaque lettre apparaît en moyenne dans 94737 mots du fichier.
-``̀
+```
 
 4. Le pourcentage des mots du dictionnaire dans lequel chaque lettre apparaît (via le paramètre --pourcentage):
-``̀
+```
 86% - E
 71% - A
 67% - I
 65% - R
 64% - S
 ...
-``̀
+```
 
 Une fois cloné, ce projet peut être exécuté en entrant les commandes suivantes à la racine:
 ```bash
