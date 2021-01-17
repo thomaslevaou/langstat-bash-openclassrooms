@@ -8,13 +8,13 @@ Ce projet consiste à réaliser des statistiques sur la liste de mots présente 
 le fichier dico.txt. L'exécution de ce programme permet notamment d'obtenir :
 1. Pour chaque lettre, le nombre de mots du fichier .txt qui la contient, par ordre
 décroissant du nombre de mots, comme sur le résultat ci-dessous (exécution par défaut):
-``̀
+```
 278814 - E
 229938 - A
 219131 - I
 210391 - R
 ...
-``̀
+```
 
 2. Idem, mais par ordre croissant (via le paramètre --tricroissant):
 ``̀
